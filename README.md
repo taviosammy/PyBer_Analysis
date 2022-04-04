@@ -10,7 +10,6 @@ Urban areas boasts 80% of the drivers in the company, but also have the lowest a
 Rural areas have the highest fares with the lowest number of drivers.  This means despite having the least total number of rides,
 rural cities have the highest fares per driver.
 
-![image](https://user-images.githubusercontent.com/99847046/161479762-63d0dfcd-9fad-42b4-ae28-f60b294bfec9.png)
 ![image](https://user-images.githubusercontent.com/99847046/161487435-ccb8a442-f089-453c-81cd-24a9c0394182.png)
 
 .
